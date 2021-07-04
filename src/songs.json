@@ -1,0 +1,402 @@
+[
+  {
+    "id": "1",
+    "song_name": "Bekhayali",
+    "album_name": "Kabir Singh",
+    "lyric_text": "Bekhayali mein bhi tera hi khayal aaye..",
+    "upvote": 0,
+    "downvote": 0
+  },
+  {
+    "id": "2",
+    "song_name": "Roula Pe Gaya",
+    "album_name": "Patiala House",
+    "lyric_text": "Roula Pe Gaya",
+    "upvote": 0,
+    "downvote": 0
+  },
+  {
+    "id": "3",
+    "song_name": "Challa",
+    "album_name": "Crook",
+    "lyric_text": "Challa Japata phire",
+    "upvote": 0,
+    "downvote": 0
+  },
+  {
+    "id": "4",
+    "song_name": "Saddi Gali",
+    "album_name": "Tannu Weds Mannu",
+    "lyric_text": "Saddi Gali Kabhi Aya Karo",
+    "upvote": 0,
+    "downvote": 0
+  },
+  {
+    "id": "5",
+    "song_name": "Jugni",
+    "album_name": "Tannu Weds Mannu",
+    "lyric_text": "Jugni oo Jugni",
+    "upvote": 0,
+    "downvote": 0
+  },
+  {
+    "id": "6",
+    "song_name": "Talli hua Talli hua",
+    "album_name": "Singh is King",
+    "lyric_text": "Talli hua Talli hua",
+    "upvote": 0,
+    "downvote": 0
+  },
+  {
+    "id": "7",
+    "song_name": "Bhootni Ke",
+    "album_name": "Singh is King",
+    "lyric_text": "Tenu Godhi Kinne Chadhaya",
+    "upvote": 0,
+    "downvote": 0
+  },
+  {
+    "id": "8",
+    "song_name": "Jee Karda",
+    "album_name": "Singh is King",
+    "lyric_text": "Jee Karda Jee Karda",
+    "upvote": 0,
+    "downvote": 0
+  },
+  {
+    "id": "9",
+    "song_name": "Oye Lucky Lucky Oye",
+    "album_name": "Oye Lucky Lucky Oye",
+    "lyric_text": "Oye Lucky Lucky Oye",
+    "upvote": 0,
+    "downvote": 0
+  },
+  {
+    "id": "10",
+    "song_name": "Tu Talli Ho Gayee",
+    "album_name": "Ugly Aur Pagly",
+    "lyric_text": "Tu Talli Ho Gayee",
+    "upvote": 0,
+    "downvote": 0
+  },
+  {
+    "id": "11",
+    "song_name": "Nagaada",
+    "album_name": "Jab We Met",
+    "lyric_text": "Nagaada Nagaada Nagaada Baja",
+    "upvote": 0,
+    "downvote": 0
+  },
+  {
+    "id": "12",
+    "song_name": "Dhol Baja Ke",
+    "album_name": "Dhol",
+    "lyric_text": "O Yaara Dhol Baja Ke",
+    "upvote": 0,
+    "downvote": 0
+  },
+  {
+    "id": "13",
+    "song_name": "Khoka",
+    "album_name": "CKompany",
+    "lyric_text": "Khoka",
+    "upvote": 0,
+    "downvote": 0
+  },
+  {
+    "id": "14",
+    "song_name": "Dilli",
+    "album_name": "No One Killed Jessica",
+    "lyric_text": "Dilli Deewano Ki Dilli",
+    "upvote": 0,
+    "downvote": 0
+  },
+  {
+    "id": "15",
+    "song_name": "Masakkali",
+    "album_name": "Delhi 6",
+    "lyric_text": "Masakkali Masakkali",
+    "upvote": 0,
+    "downvote": 0
+  },
+  {
+    "id": "16",
+    "song_name": "Taal",
+    "album_name": "Taal",
+    "lyric_text": "Taal se Taal Mila",
+    "upvote": 0,
+    "downvote": 0
+  },
+  {
+    "id": "17",
+    "song_name": "Sajni",
+    "album_name": "Boondh",
+    "lyric_text": "Sajni Pass Bulao Na ki dil aaj rutha hai",
+    "upvote": 0,
+    "downvote": 0
+  },
+  {
+    "id": "18",
+    "song_name": "Sapno ki rani",
+    "album_name": "Sanam",
+    "lyric_text": "Meri sapno ki rani kab aaogi",
+    "upvote": 0,
+    "downvote": 0
+  },
+  {
+    "id": "19",
+    "song_name": "Mukabala",
+    "album_name": "Tasveer",
+    "lyric_text": "Mukabala Mukabala",
+    "upvote": 0,
+    "downvote": 0
+  },
+  {
+    "id": "20",
+    "song_name": "Tu cheej badi mast",
+    "album_name": "Mohra",
+    "lyric_text": "Tu cheez badi mast mast",
+    "upvote": 0,
+    "downvote": 0
+  },
+  {
+    "id": "21",
+    "song_name": "Bekhayali",
+    "album_name": "Kabir Singh",
+    "lyric_text": "",
+    "upvote": 0,
+    "downvote": 0
+  },
+  {
+    "id": "22",
+    "song_name": "Bekhayali",
+    "album_name": "Kabir Singh",
+    "lyric_text": "",
+    "upvote": 0,
+    "downvote": 0
+  },
+  {
+    "id": "23",
+    "song_name": "Bekhayali",
+    "album_name": "Kabir Singh",
+    "lyric_text": "",
+    "upvote": 0,
+    "downvote": 0
+  },
+  {
+    "id": "24",
+    "song_name": "Bekhayali",
+    "album_name": "Kabir Singh",
+    "lyric_text": "",
+    "upvote": 0,
+    "downvote": 0
+  },
+  {
+    "id": "25",
+    "song_name": "Bekhayali",
+    "album_name": "Kabir Singh",
+    "lyric_text": "",
+    "upvote": 0,
+    "downvote": 0
+  },
+  {
+    "id": "26",
+    "song_name": "Bekhayali",
+    "album_name": "Kabir Singh",
+    "lyric_text": "",
+    "upvote": 0,
+    "downvote": 0
+  },
+  {
+    "id": "27",
+    "song_name": "Bekhayali",
+    "album_name": "Kabir Singh",
+    "lyric_text": "",
+    "upvote": 0,
+    "downvote": 0
+  },
+  {
+    "id": "28",
+    "song_name": "Bekhayali",
+    "album_name": "Kabir Singh",
+    "lyric_text": "",
+    "upvote": 0,
+    "downvote": 0
+  },
+  {
+    "id": "29",
+    "song_name": "Bekhayali",
+    "album_name": "Kabir Singh",
+    "lyric_text": "",
+    "upvote": 0,
+    "downvote": 0
+  },
+  {
+    "id": "30",
+    "song_name": "Bekhayali",
+    "album_name": "Kabir Singh",
+    "lyric_text": "",
+    "upvote": 0,
+    "downvote": 0
+  },
+  {
+    "id": "31",
+    "song_name": "Bekhayali",
+    "album_name": "Kabir Singh",
+    "lyric_text": "",
+    "upvote": 0,
+    "downvote": 0
+  },
+  {
+    "id": "32",
+    "song_name": "Bekhayali",
+    "album_name": "Kabir Singh",
+    "lyric_text": "",
+    "upvote": 0,
+    "downvote": 0
+  },
+  {
+    "id": "33",
+    "song_name": "Bekhayali",
+    "album_name": "Kabir Singh",
+    "lyric_text": "",
+    "upvote": 0,
+    "downvote": 0
+  },
+  {
+    "id": "34",
+    "song_name": "Bekhayali",
+    "album_name": "Kabir Singh",
+    "lyric_text": "",
+    "upvote": 0,
+    "downvote": 0
+  },
+  {
+    "id": "35",
+    "song_name": "Bekhayali",
+    "album_name": "Kabir Singh",
+    "lyric_text": "",
+    "upvote": 0,
+    "downvote": 0
+  },
+  {
+    "id": "36",
+    "song_name": "Bekhayali",
+    "album_name": "Kabir Singh",
+    "lyric_text": "",
+    "upvote": 0,
+    "downvote": 0
+  },
+  {
+    "id": "37",
+    "song_name": "Bekhayali",
+    "album_name": "Kabir Singh",
+    "lyric_text": "",
+    "upvote": 0,
+    "downvote": 0
+  },
+  {
+    "id": "38",
+    "song_name": "Bekhayali",
+    "album_name": "Kabir Singh",
+    "lyric_text": "",
+    "upvote": 0,
+    "downvote": 0
+  },
+  {
+    "id": "39",
+    "song_name": "Bekhayali",
+    "album_name": "Kabir Singh",
+    "lyric_text": "",
+    "upvote": 0,
+    "downvote": 0
+  },
+  {
+    "id": "40",
+    "song_name": "Bekhayali",
+    "album_name": "Kabir Singh",
+    "lyric_text": "",
+    "upvote": 0,
+    "downvote": 0
+  },
+  {
+    "id": "41",
+    "song_name": "Bekhayali",
+    "album_name": "Kabir Singh",
+    "lyric_text": "",
+    "upvote": 0,
+    "downvote": 0
+  },
+  {
+    "id": "42",
+    "song_name": "Bekhayali",
+    "album_name": "Kabir Singh",
+    "lyric_text": "",
+    "upvote": 0,
+    "downvote": 0
+  },
+  {
+    "id": "43",
+    "song_name": "Bekhayali",
+    "album_name": "Kabir Singh",
+    "lyric_text": "",
+    "upvote": 0,
+    "downvote": 0
+  },
+  {
+    "id": "44",
+    "song_name": "Bekhayali",
+    "album_name": "Kabir Singh",
+    "lyric_text": "",
+    "upvote": 0,
+    "downvote": 0
+  },
+  {
+    "id": "45",
+    "song_name": "Bekhayali",
+    "album_name": "Kabir Singh",
+    "lyric_text": "",
+    "upvote": 0,
+    "downvote": 0
+  },
+  {
+    "id": "46",
+    "song_name": "Bekhayali",
+    "album_name": "Kabir Singh",
+    "lyric_text": "",
+    "upvote": 0,
+    "downvote": 0
+  },
+  {
+    "id": "47",
+    "song_name": "Bekhayali",
+    "album_name": "Kabir Singh",
+    "lyric_text": "",
+    "upvote": 0,
+    "downvote": 0
+  },
+  {
+    "id": "48",
+    "song_name": "Bekhayali",
+    "album_name": "Kabir Singh",
+    "lyric_text": "",
+    "upvote": 0,
+    "downvote": 0
+  },
+  {
+    "id": "49",
+    "song_name": "Bekhayali",
+    "album_name": "Kabir Singh",
+    "lyric_text": "",
+    "upvote": 0,
+    "downvote": 0
+  },
+  {
+    "id": "50",
+    "song_name": "Bekhayali",
+    "album_name": "Kabir Singh",
+    "lyric_text": "",
+    "upvote": 0,
+    "downvote": 0
+  }
+]
