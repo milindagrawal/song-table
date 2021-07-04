@@ -10,6 +10,9 @@ Table contains following core features:
 
 Working Demo: https://codesandbox.io/s/song-table-9cjjm
 
+_Note: This table is not responsive, so you notice any distortion in UI then please
+open the same in full window._
+
 @Author Milind Agrawal
 
 Social Links:
