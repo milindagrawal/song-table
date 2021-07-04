@@ -11,5 +11,11 @@ Table contains following core features:
 Working Demo: https://codesandbox.io/s/song-table-9cjjm
 
 @Author Milind Agrawal
-https://www.linkedin.com/in/milindagrawal831/
+
+Social Links:
+
+https://www.linkedin.com/in/milindagrawal831
+
 https://stackoverflow.com/users/1929006/milind-agrawal
+
+https://www.facebook.com/milindagrawal831
